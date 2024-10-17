@@ -4,6 +4,9 @@ body {
 
 /* Main Container */
 main {
-  width: 40em;
+  width: 100%;
+  max-width: 40em;
   margin-inline: auto;
 }
+
+/* RWD Styling */
