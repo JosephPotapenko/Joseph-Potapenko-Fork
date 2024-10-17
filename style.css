@@ -1,13 +1,14 @@
 /* Have fun. This is your site. */
 
 body{
-  background: lightgray;
+  background: darkslategrey;
 }
 
-title{
+h1{
   font-family: 'Arial', sans-serif;
-  font-size: 1.5em;
-  color: darkblue;
+  font-size: 2em;
+  color: rgb(219, 219, 219);
+  text-align: center;
 }
 
 /* Main Container */
