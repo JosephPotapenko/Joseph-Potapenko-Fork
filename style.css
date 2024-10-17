@@ -1,3 +1,9 @@
 body {
-    background: peachpuff;
+  background: lightgray;
+}
+
+/* Main Container */
+main {
+  width: 40em;
+  margin-inline: auto;
 }
