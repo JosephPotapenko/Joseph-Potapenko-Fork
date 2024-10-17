@@ -12,7 +12,8 @@ My DIY Landing Page with these features.
 * Secure, and scalable to many CDNs worldwide via Netlify, Vercel, etc.
 
 ## Sources
-* [Google Font] (https://fonts.google.com/)
+* [Google Font](https://fonts.google.com/)
+* [Real Favicon Generator](https://realfavicongenerator.net/)
 
 
 ## Why Does This Exist? 

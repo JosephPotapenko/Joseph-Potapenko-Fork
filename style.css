@@ -1,7 +1,13 @@
 /* Have fun. This is your site. */
 
-body {
+body{
   background: lightgray;
+}
+
+title{
+  font-family: 'Arial', sans-serif;
+  font-size: 1.5em;
+  color: darkblue;
 }
 
 /* Main Container */
