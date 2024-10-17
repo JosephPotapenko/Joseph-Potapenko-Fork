@@ -1,3 +1,5 @@
+/* Have fun. This is your site. */
+
 body {
   background: lightgray;
 }
@@ -5,8 +7,10 @@ body {
 /* Main Container */
 main {
   width: 100%;
-  max-width: 40em;
+  /* centers container to page */
   margin-inline: auto;
-}
+  
+  /* adjust to your design */
+  max-width: 40em;
 
-/* RWD Styling */
+}
